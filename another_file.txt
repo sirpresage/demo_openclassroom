@@ -1,3 +1,1 @@
 Ce fichier permet de valider l'exercice en effectuant des commits d'ajout et de suppression.
-
-Cette phrase sera par exemple supprimée.
